@@ -1,6 +1,58 @@
 #Build settings
 name: Cognition and Mental Health Lab
+author: Alex Pike
 markdown: kramdown
 remote_theme: peterdesmet/petridish
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# SITE SETTINGS
+title: Cognition and Mental Health Lab  # Title in top navigation bar (navbar) and <head>
+description: Test                       # Site description in <head>
+author: Alex Pike                       # Used for copyright statement in footer
+
+# SOCIAL PROFILES
+email: alex.pike@york.ac.uk             # Social icon in footer
+twitter_username: Alexandra_Pike        # Social icon in footer
+github_username: apike02                # Social icon in footer
+
+# THEME SETTINGS (ALL OPTIONAL)
+posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
+archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
+colors:
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
+rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+logo: /assets/theme/images/petri-dish_1f9eb.png # Logo in navbar, will be displayed with 30px height
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - petridish.gemspec
+
+# FRONTMATTER DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
