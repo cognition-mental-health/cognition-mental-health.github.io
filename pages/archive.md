@@ -1,12 +1,8 @@
 ---
 layout: archive
 title: Blog
+description: News & blog posts
+permalink: /blog/
 ---
-<div class="blurb">
-	<h1>Blog</h1>
-  <p>Here are some things I find interesting, or things that I might forget if I don't write them down. </p><br/>
-	
-  <h2>04/09/2021</h2>
-  <p>This is a blog about <a href="/blog/printabrain">3D Printing a Brain</a></p>
-<br>
-</div><!-- /.blurb -->
+
+<!-- Content here would shop up above your list of posts -->
