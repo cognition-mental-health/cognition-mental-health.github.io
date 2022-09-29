@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vacancies
+permalink: /vacancies/
 ---
 <div class="blurb">
 	<h1>PhD</h1>
