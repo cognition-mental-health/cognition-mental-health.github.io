@@ -2,19 +2,25 @@
 layout: default
 title: 3D printing a brain
 ---
-<div class="blurb">
-	<h1>3D printing a brain</h1>
-    <h2>Alex Pike</h2>
-  <img width=300 height=300 class="align-left" src="/pics/brainprint/still_brain.jpeg">
-  <p>Recently, a lab member left and I had the wild idea of 3D printing their brain as a leaving gift. As nobody had any better ideas, I was stuck: 3D printing a brain, with no experience, and limited in-person technical support (thanks, COVID). This documents my efforts and the resources I found helpful. I've included some pictures of the process, but not of the final result, as brains are pretty unique and potentially identifiable.</p>
+
+---
+title: 3D printing a brain
+description: Brief tutorial for how to print a brain
+background: "assets/theme/images/still_brain.jpeg"
+author: [Alex Pike]
+categories: [Data, Shared category]
+comments: true
+---
+
+Recently, a lab member left and I had the wild idea of 3D printing their brain as a leaving gift. As nobody had any better ideas, I was stuck: 3D printing a brain, with no experience, and limited in-person technical support (thanks, COVID). This documents my efforts and the resources I found helpful. I've included some pictures of the process, but not of the final result, as brains are pretty unique and potentially identifiable.
 	
-  <p>First of all, I found three sets of instructions that were incredibly helpful (these links open in new tabs): 
+First of all, I found three sets of instructions that were incredibly helpful (these links open in new tabs): 
     <ul>
     <li><a href ="https://riojournal.com/articles.php?journal_name=rio&id=10398" target="_blank">This paper by Chris Madan</a></li>
     <li><a href="https://www.sculpteo.com/blog/2017/11/08/how-to-3d-print-your-own-brain-using-mri-or-ct-scans-free-software/" target="_blank">This Sculpteo blogpost</a></li> 
     <li><a href="https://www.instructables.com/3D-print-your-own-brain/" target="_blank">This Instructables blogpost</a></li></ul></p>
   
-  <p>I would recommend using Chris Madan's instructions for most of it, except the tridecimator part. I preferred to play around in MeshLab directly.</p>
+  I would recommend using Chris Madan's instructions for most of it, except the tridecimator part. I preferred to play around in MeshLab directly.</p>
 
   <p>This is my summary of what to do (note that I printed using an Ultimaker, and also use Windows - these instructions will be most useful if you're doing the same):
     <ol>
