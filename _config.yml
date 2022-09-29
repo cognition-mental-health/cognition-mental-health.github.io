@@ -1,6 +1,6 @@
 #Build settings
 name: Cognition and Mental Health Lab
 markdown: kramdown
-remote_theme: benbalter/retlab
+remote_theme: peterdesmet/petridish
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
