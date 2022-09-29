@@ -2,12 +2,13 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
-  href: /about/
 - text: People
   href: /team/
 - text: Publications
   href: /pubs/
+- text: Vacancies
+  href: /vacancies/
 - text: Blog
   href: /blog/
+
 
