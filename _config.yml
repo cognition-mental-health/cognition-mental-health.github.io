@@ -1,3 +1,4 @@
 #Build settings
+name: Cognition and Mental Health Lab
 markdown: kramdown
 remote_theme: benbalter/retlab
