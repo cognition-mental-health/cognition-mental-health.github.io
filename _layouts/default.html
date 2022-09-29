@@ -3,40 +3,6 @@ layout: base
 description: Default template for pages and posts, with contained width
 ---
 
-<head>
-	<title>{{ page.title }}</title>
-	<!-- link to main stylesheet -->
-	<!--<link rel="stylesheet" type="text/css" href="/css/main.css">-->
-</head>
-<body>
-	<nav>
-		<ul>
-			<li><a href="/">Home</a></li>
-			<li><a href="/people">People</a></li>
-			<li><a href="/pubs">Publications</a></li>
-			<li><a href="/vacancies">Vacancies</a></li>
-			<li><a href="/blog">Blog</a></li>
-		</ul>
-	</nav>
-	<div class="container">
-	
-	{{ content }}
-	
-	</div><!-- /.container -->
-	<footer>
-		<ul>
-		<li><a href="mailto:alex.pike@york.ac.uk">email Alex</a></li>
-		<li><a href="https://twitter.com/Alexandra_Pike">Alex's twitter</a></li>
-		<li><a href="https://www.york.ac.uk/psychology/staff/academicstaff/pike,-alex/">Alex's homepage</a></li>
-		</ul>
-	</footer>
-</body>
-
----
-layout: base
-description: Default template for pages and posts, with contained width
----
-
 <div class="row">
   {% if page.toc %}
   <div class="col-md-10 col-lg-3 mx-auto">
