@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Cognition and Mental Health Lab
+permalink: /
 ---
 <div class="blurb">
 	<h1>Cognition and Mental Health Lab</h1>
