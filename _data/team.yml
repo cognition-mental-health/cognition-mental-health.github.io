@@ -3,12 +3,6 @@
 - name: Alexandra C. Pike
   role: PI # Will appear next to name
   image: assets/theme/images/apike.jpg # Can be external link
-  description: # Can be Markdown
-  orcid: 0000-0003-1972-5530
-  twitter: Alexandra_Pike
-  github: apike02
-  gscholar: XQ8kkegAAAAJ&hl
-  email: alex.pike@york.ac.uk
   description: >
     I'm a Lecturer at the <a href="https://www.york.ac.uk/psychology/">Department of Psychology at the University of York</a>. 
     I am interested in computational modelling (especially reinforcement learning), neuroimaging, and psychometrics. I have experience working in the fields of eating disorders and anxiety disorders.
@@ -21,6 +15,11 @@
     My DPhil supervisors were <a href="https://www.psych.ox.ac.uk/team/phil-cowen">Professor Philip Cowen</a> and <a href="https://www.psych.ox.ac.uk/team/rebecca-park">Professor Rebecca Park</a>.
     
     I have previously completed an MSc in Neuroscience and a BA in Psychology and Philosophy.
+  orcid: 0000-0003-1972-5530
+  gscholar: XQ8kkegAAAAJ&hl
+  twitter: Alexandra_Pike
+  github: apike02
+  email: alex.pike@york.ac.uk
 - name: Lucy Stafford
   role: PhD Student (second supervision)
   image: assets/theme/images/lstafford.jpg
@@ -28,3 +27,4 @@
     My name is Lucy Stafford and I am a Masters of Science in Psychology graduate from the University of York. I am currently studying for a Masters of Art in Social Research, also at the University of York, as part of the 1+3 Advanced Quantitative Methods funding I received from the Economic and Social Research Council. I will officially start my PhD in the Autumn of 2023. 
     
     My research interests include interoception, body image, eating behaviours and disorders, and food choices. My PhD research will explore the relationships between gastric interoception, body image, and food choices. 
+  email: lucy.stafford@york.ac.uk
