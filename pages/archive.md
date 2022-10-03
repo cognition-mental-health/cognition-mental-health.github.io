@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: Blog
-description: News & blog posts
+title: News & Blog Posts
 permalink: /blog/
 ---
 
