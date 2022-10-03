@@ -13,7 +13,7 @@ permalink: /pubs/
 	<br/>
 	Pike, A.C., Tan, K., Ansari, H.J., Wing, M., Robinson, O.J. Test-retest reliability of affective bias tasks. PsyArXiv. 2022. <a href="https://doi.org/10.31234/osf.io/n2fkh">doi: 10.31234/osf/io/n2fkh</a><br/>
 	<br/>
-	Bone, J.K., Pike, A.C., Lewis, G., Lewis, G., Blakemore, S-J., Roiser, J.P. Computational mechanisms undelrying social evaluation learning and associations with depressive symptoms during adolescence. PsyArXiv. 2021. <a href="https://doi.org/10.31234/osf.io/9m7vr">doi: 10.31234/osf.io/9m7vr</a></br>
+	Bone, J.K., Pike, A.C., Lewis, G., Lewis, G., Blakemore, S-J., Roiser, J.P. Computational mechanisms undelrying social evaluation learning and associations with depressive symptoms during adolescence. PsyArXiv. 2021. <a href="https://doi.org/10.31234/osf.io/9m7vr">doi: 10.31234/osf.io/9m7vr</a>
 
 
 
@@ -60,4 +60,3 @@ permalink: /pubs/
 		Noonan M.P., Adamian N., Pike A., Printzlau F., Crittenden B.M., Stokes M.G. Distinct Mechanisms for Distractor Suppression and Target Facilitation. The Journal of Neuroscience. 2016;36(6):1797-807. 
 		<a href="https://doi.org/10.1523/JNEUROSCI.2133-15.2016">doi: 10.1523/JNEUROSCI.2133-15.2016</a>
 	</p>
-</div><!-- /.blurb -->
