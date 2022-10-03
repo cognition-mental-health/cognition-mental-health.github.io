@@ -1,6 +1,6 @@
 ---
-title: 3D printing a brain
-description: Brief tutorial for how to print a brain
+title: Congratulations, Lucy! 
+description: Lucy Stafford was awarded prestigious ESRC PhD funding
 background: "assets/theme/images/lstafford.jpg"
 author: [Alex Pike]
 categories: [News, Funding]
