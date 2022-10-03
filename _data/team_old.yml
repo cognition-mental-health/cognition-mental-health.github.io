@@ -1,29 +1,29 @@
  # Project team members listed below will appear on the /team page under former members
  
 - name: Severija Juskaite
-  role: MSci Psychology Project Student # Will appear next to name
+  role: UCL MSci Psychology Project Student # Will appear next to name
   description: 2021-2022
 - name: Annelore Figari
-  role: iBSc Medicine Project Student
+  role: UCL iBSc Medicine Project Student
   description: 2021-2022
 - name: Ashley Slanina-Davies
   role: UCL MSci Neuroscience Project Student
   description: 2020-2021
 - name: Mia Harada-Laszlo
-  role: iBSc Medicine Project Student
+  role: UCL iBSc Medicine Project Student
   description: 2020-2021
-- name: Agatha Alves Anet
-  role: MRes Brain Sciences Project Student
+- name: &Aacute;gatha Alves Anet
+  role: UCL MRes Brain Sciences Project Student
   description: 2019-2020
 - name: Algirdas Midveris
-  role: MSc Cognitive Neuroscience Project Student
+  role: UCL MSc Cognitive Neuroscience Project Student
   description: 2019-2020
 - name: Katrina Tan
-  role: BSc Biomedical Sciences Project Project Student
+  role: UCL BSc Biomedical Sciences Project Project Student
   description: 2019-2020
 - name: Jade Serfaty
-  role: Wellcome Biomedical Vacation Scholar
+  role: UCL Wellcome Biomedical Vacation Scholar
   description: 2019
 - name: Aida Helena Binti Affandi
-  role: MSc Cognitive Neuroscience Student
+  role: UCL MSc Cognitive Neuroscience Student
   description: 2018-2019
