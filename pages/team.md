@@ -1,6 +1,6 @@
 ---
 layout: team
-title: Team
+title: People
 background: https://source.unsplash.com/iuqmGmst5Po
-permalink: /team/
+permalink: /people/
 ---
