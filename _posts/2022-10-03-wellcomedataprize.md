@@ -1,7 +1,7 @@
 ---
 title: The lab is awarded a Wellcome/Social Finance Data Prize!  
 description: We've been awarded a grant examining anxiety and depression in young people
-background: "assets/theme/images/wdp_mockup.png"
+background: "assets/theme/images/ml_pipeline.png"
 author: [Alex Pike]
 categories: [News, Funding]
 comments: false
