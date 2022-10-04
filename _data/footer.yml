@@ -14,4 +14,4 @@ columns:
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
   Content on this site is licensed under a [CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/).
-  \| Theme: [Petridish](https://github.com/peterdesmet/petridish)
+  \| Theme: [Petridish](https://github.com/peterdesmet/petridish) \| Logo created using a photo by Milad Fakurian on [unsplash](https://unsplash.com/photos/58Z17lnVS4U)
