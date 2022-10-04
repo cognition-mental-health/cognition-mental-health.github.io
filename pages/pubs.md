@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-background: https://images.unsplash.com/photos/5cFwQ-WMcJU
+background: https://source.unsplash.com/5cFwQ-WMcJU
 permalink: /pubs/
 
 ---
