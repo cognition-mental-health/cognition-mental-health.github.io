@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: News & Blog Posts
+background: https://source.unsplash.com/Tzm3Oyu_6sk
 permalink: /blog/
 ---
 

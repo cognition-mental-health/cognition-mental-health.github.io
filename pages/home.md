@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Cognition and Mental Health Lab
+background: https://source.unsplash.com/6sAl6aQ4OWI
 permalink: /
 ---
 <div class="blurb">
