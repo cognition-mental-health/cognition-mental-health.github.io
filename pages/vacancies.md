@@ -23,7 +23,7 @@ permalink: /vacancies/
   <li>York requires candidates to be offered a place by the department before they can be entered into any funding competitions. To do this, you need to have passed an interview with other members of staff in the Department by early January (at the latest).</li>
   <li>Depending on which funding stream you are applying for, you complete the relevant online forms by the deadline, which is typically in January. Some more details on funding streams are listed on the <a href="https://www.york.ac.uk/psychology/prospective/postgraduate/research/funding/#:~:text=We%20regularly%20receive%20funding%20for,maintenance%20grant%20for%20living%20expenses.">York Psychology Department funding webpage</a>  but I can also talk the options through with you on zoom. Note that if you’re applying for the departmental studentships you are typically required to also apply for the White Rose DTP AQM award.</li>
   <li>Applicants are often then interviewed in February, with outcomes available in March. Again, note that if you get the AQM award you must accept that in preference to the departmental studentships (this just means that the department can support more PhD students!).</li>
-</ol>
+  </ol>
   If you have any questions about this process please do reach out. 
 
 
