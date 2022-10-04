@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vacancies
-background: https://source.unsplash.come/s9CC2SKySJM
+background: https://source.unsplash.com/s9CC2SKySJM
 permalink: /vacancies/
 ---
 <div class="blurb">
