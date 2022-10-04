@@ -15,15 +15,15 @@ permalink: /vacancies/
   Please check the <a href="https://www.york.ac.uk/psychology/prospective/postgraduate/research/funding/#:~:text=We%20regularly%20receive%20funding%20for,maintenance%20grant%20for%20living%20expenses.">York Psychology Department funding webpage</a> for the most up-to-date information and deadlines. 
   Here is some information about how the process works at York if you want to be supervised by me:
   <ol>
-  <li>1.   First, it would be great if you could send me some details of your interests and your research experience. This doesn’t need to be a formal CV, but can be a list of experiences and the corresponding skills you’ve learnt. This might include any research projects you’ve done, the courses you took as an undergraduate/MSc student, and any work experience you have. I recognise that not every undergraduate course offers research experience - so if that’s the case, please just say so, and highlight experiences you have had that use similar skills (such as report-writing, coding, teamwork, time management, data management). </li>
-  <li>2.  If there’s a good fit between our interests, we have a zoom meeting and discuss potential project options.</l>
-  <li>3.  If we decide to proceed, we together identify a second supervisor (as I am a new member of staff, all my PhD students will have a second supervisor who is more experienced).</li>
-  <li>4.  You prepare a draft research proposal (by the end of November).</li>
-  <li>5.  We work together to refine the proposal, normally by early-mid December.</li>
-  <li>6.  York requires candidates to be offered a place by the department before they can be entered into any funding competitions. To do this, you need to have passed an interview with other members of staff in the Department by early January (at the latest).</li>
-  7.  Depending on which funding stream you are applying for, you complete the relevant online forms by the deadline, which is typically in January. Some more details on funding streams are listed on the <a href="https://www.york.ac.uk/psychology/prospective/postgraduate/research/funding/#:~:text=We%20regularly%20receive%20funding%20for,maintenance%20grant%20for%20living%20expenses.">York Psychology Department funding webpage</a>  but I can also talk the options through with you on zoom. Note that if you’re applying for the departmental studentships you are typically required to also apply for the White Rose DTP AQM award. 
-  8.  Applicants are often then interviewed in February, with outcomes available in March. Again, note that if you get the AQM award you must accept that in preference to the departmental studentships (this just means that the department can support more PhD students!). 
-
+  <li>First, it would be great if you could send me some details of your interests and your research experience. This doesn’t need to be a formal CV, but can be a list of experiences and the corresponding skills you’ve learnt. This might include any research projects you’ve done, the courses you took as an undergraduate/MSc student, and any work experience you have. I recognise that not every undergraduate course offers research experience - so if that’s the case, please just say so, and highlight experiences you have had that use similar skills (such as report-writing, coding, teamwork, time management, data management). </li>
+  <li>If there’s a good fit between our interests, we have a zoom meeting and discuss potential project options.</li>
+  <li>If we decide to proceed, we together identify a second supervisor (as I am a new member of staff, all my PhD students will have a second supervisor who is more experienced).</li>
+  <li>You prepare a draft research proposal (by the end of November).</li>
+  <li>We work together to refine the proposal, normally by early-mid December.</li>
+  <li>York requires candidates to be offered a place by the department before they can be entered into any funding competitions. To do this, you need to have passed an interview with other members of staff in the Department by early January (at the latest).</li>
+  <li>Depending on which funding stream you are applying for, you complete the relevant online forms by the deadline, which is typically in January. Some more details on funding streams are listed on the <a href="https://www.york.ac.uk/psychology/prospective/postgraduate/research/funding/#:~:text=We%20regularly%20receive%20funding%20for,maintenance%20grant%20for%20living%20expenses.">York Psychology Department funding webpage</a>  but I can also talk the options through with you on zoom. Note that if you’re applying for the departmental studentships you are typically required to also apply for the White Rose DTP AQM award.</li>
+  <li>Applicants are often then interviewed in February, with outcomes available in March. Again, note that if you get the AQM award you must accept that in preference to the departmental studentships (this just means that the department can support more PhD students!).</li>
+</ol>
   If you have any questions about this process please do reach out. 
 
 
@@ -31,4 +31,3 @@ permalink: /vacancies/
   <h2>Postdoc</h2>
   <p>I currently have no funding for postdocs. I would be very happy to support an application for a postdoc to be part of the lab - please <a href="mailto:alex.pike@york.ac.uk">email me</a>! </p>
 	<br>
-</div><!-- /.blurb -->
