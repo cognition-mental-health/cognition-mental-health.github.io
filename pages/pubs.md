@@ -12,9 +12,9 @@ permalink: /pubs/
 	<h2>Pre-prints</h2>
 	<p> Pike, A.C., Sharpley, A.L., Park, R.J., Cowen, P.J., Browning, M., 	Pulcu, E. Adaptive learning from outcome contingencies in eating-disorder risk groups. PsyArXiv. 2022. <a href="https://doi.org/10.31234/osf.io/zxs5n">doi: 10.31234/osf.io/zxs5n</a><br/>
 	<br/>
-	Pike, A.C., Tan, K., Ansari, H.J., Wing, M., Robinson, O.J. Test-retest reliability of affective bias tasks. PsyArXiv. 2022. <a href="https://doi.org/10.31234/osf.io/n2fkh">doi: 10.31234/osf/io/n2fkh</a><br/>
+	Pike, A.C., Tan, K., Ansari, H.J., Wing, M., Robinson, O.J. Test-retest reliability of affective bias tasks. PsyArXiv. 2022. <a href="https://doi.org/10.31234/osf.io/n2fkh">doi: 10.31234/osf.io/n2fkh</a><br/>
 	<br/>
-	Bone, J.K., Pike, A.C., Lewis, G., Lewis, G., Blakemore, S-J., Roiser, J.P. Computational mechanisms undelrying social evaluation learning and associations with depressive symptoms during adolescence. PsyArXiv. 2021. <a href="https://doi.org/10.31234/osf.io/9m7vr">doi: 10.31234/osf.io/9m7vr</a>
+	Bone, J.K., Pike, A.C., Lewis, G., Lewis, G., Blakemore, S-J., Roiser, J.P. Computational mechanisms underlying social evaluation learning and associations with depressive symptoms during adolescence. PsyArXiv. 2021. <a href="https://doi.org/10.31234/osf.io/9m7vr">doi: 10.31234/osf.io/9m7vr</a>
 
 
 
