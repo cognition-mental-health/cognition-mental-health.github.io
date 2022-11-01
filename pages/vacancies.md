@@ -5,8 +5,10 @@ background: https://source.unsplash.com/ZmGQAaWSUkE
 permalink: /vacancies/
 ---
 <div class="blurb">
+ <h2>Lab culture</h2>
+  <p>Recently, I was involved in a collaborative effort to create a list of '10 simple rules' for creating a supportive lab environment. I endeavour to follow these rules in my role as a PI. You can find the <a href="/assets/theme/documents/10_rules_aam.pdf">Authors' Accepted Manuscript of this paper here</a>.</p>
  <h2>Research Assistant (RA)</h2>
-  <p>I currently have no funding for RAs, and do not believe that it is equitable to offer research assistantships that are unfunded or honorary, because I believe this contributes to some of the inequalities in academia. I am, however, always keen to listen to ideas for obtaining funding for RAs, and it might be worth noting schemes such as the <a href="https://www.bap.org.uk/internship.php">BAP summer research internship scheme</a> </p>
+  <p>I currently have no funding for RAs, and do not believe that it is equitable to offer research assistantships that are unfunded or honorary, because I believe this contributes to some of the inequalities in academia. I am, however, always keen to listen to ideas for obtaining funding for RAs, and it might be worth noting schemes such as the <a href="https://www.bap.org.uk/internship.php">BAP summer research internship scheme.</a></p>
 	<h2>PhD</h2>
   <p>I am currently looking for PhD students to start in Autumn 2023! If you are interested in doing your PhD in the lab, please <a href="mailto:alex.pike@york.ac.uk">email me</a>. In particular, I'm looking for students who are a) enthusiastic about mental health research, and b) excited to explore new cognitive neuroscience techniques (Note: coding experience isn't necessary!). </p>
   <h4>PhD funding</h4> 
