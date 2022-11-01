@@ -17,7 +17,7 @@ twitter_username: Alexandra_Pike        # Social icon in footer
 github_username: cognition-mental-health # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+posts_on_home: 4                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: false                   # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 colors:
