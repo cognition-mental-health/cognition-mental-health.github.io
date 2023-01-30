@@ -1,7 +1,7 @@
 ---
 title: Catastrophizing and Risk-Taking
 description: New publication in the Journal of Computational Psychiatry
-background: "assets/theme/images/brainprint/bart.png"
+background: "assets/theme/images/bart.png"
 author: [Alex Pike]
 categories: [News, Publications]
 comments: false
