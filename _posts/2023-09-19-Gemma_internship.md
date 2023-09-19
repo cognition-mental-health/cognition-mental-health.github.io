@@ -21,6 +21,6 @@ I also had the opportunity to participate in a poster presentation at a small re
 
 Overall, this internship has been an incredible experience and a marvellous opportunity to learn more firsthand about research, and I am definitely looking forward to doing more research-based things in the future.
  <figure>
-  <iframe width=300 height=400 frameBorder="0" hspace=20 src="/assets/theme/images/gemma_poster.jpeg"></iframe>
+  <iframe width=300 height=400 frameBorder="0" hspace=20 src="/assets/theme/images/gsarigu_poster.jpeg"></iframe>
   <figcaption>  Gemma presenting her poster at the North East Body Conference!</figcaption>
  </figure>
