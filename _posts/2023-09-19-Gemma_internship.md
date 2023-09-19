@@ -1,7 +1,6 @@
 ---
 title: Gemma's internship
 description: Gemma Sarigu was funded by the Department to complete a five-week internship in the lab.
-background: 
 author: [Gemma Sarigu]
 categories: [News, Funding]
 comments: false
