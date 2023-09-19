@@ -1,7 +1,7 @@
 ---
 title: Gemma's internship
 description: Gemma Sarigu was funded by the Department to complete a five-week internship in the lab.
-background: "assets/theme/images/gsarigu_poster.jpg"
+background: 
 author: [Gemma Sarigu]
 categories: [News, Funding]
 comments: false
@@ -20,3 +20,5 @@ This was an amazing opportunity and allowed me to gain a real insight into the w
 I also had the opportunity to participate in a poster presentation at a small research conference at the University of York, this was wonderful and my first time presenting the research.I am very excited for the next step of this research project which is to publish the study in a research journal, which would be an amazing experience to learn about the publishing process and the overall academic world. 
 
 Overall, this internship has been an incredible experience and a marvellous opportunity to learn more firsthand about research, and I am definitely looking forward to doing more research-based things in the future.
+
+![Alt text](gsarigu_poster.jpeg)
