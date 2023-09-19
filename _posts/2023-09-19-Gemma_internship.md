@@ -10,10 +10,7 @@ comments: false
 Hi,
 I am Gemma, a psychology student at the University of York, and I was a Summer Research Intern in the Psychology Department. I have an interest in mental health and am considering a career in clinical psychology or mental health research. I'll be starting my second year at York in September 2023.
 
- <figure>
-  <img class="img-fluid" src="/assets/theme/images/gsarigu_poster.jpeg">
-  <figcaption>  <*Gemma presenting her poster at the North East Body Conference!*</figcaption>
- </figure>
+ ![Gemma presenting her poster at the North East Body Conference!](../assets/theme/images/gsarigu_poster.jpeg)
 
 Following the University of York ending their partnership with the Laidlaw Scholarship, I was very lucky to be offered funding from the Department of Psychology to undertake a 5-week research internship with Dr Alex Pike (my supervisor) in July.
 
