@@ -1,6 +1,7 @@
 ---
 title: Gemma's internship
-description: Gemma Sarigu was funded by the Department to complete a five-week internship in the lab.
+description: Gemma Sarigu summarises her research experience in the lab.
+background: "assets/theme/images/brainprint/fail.jpeg"
 author: [Gemma Sarigu]
 categories: [News, Funding]
 comments: false
@@ -22,4 +23,4 @@ Overall, this internship has been an incredible experience and a marvellous oppo
  <figure>
   <iframe width=300 height=400 frameBorder="0" hspace=20 src="/assets/theme/images/gemma_poster.jpeg"></iframe>
   <figcaption>  Gemma presenting her poster at the North East Body Conference!</figcaption>
-  </figure>
+ </figure>
