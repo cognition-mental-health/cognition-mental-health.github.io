@@ -11,7 +11,7 @@ Hi,
 I am Gemma, a psychology student at the University of York, and I was a Summer Research Intern in the Psychology Department. I have an interest in mental health and am considering a career in clinical psychology or mental health research. I'll be starting my second year at York in September 2023.
 
  <figure>
-  <iframe width=300 frameBorder="0" hspace=20 src="/assets/theme/images/gsarigu_poster.jpeg"></iframe>
+  <iframe frameBorder="0" hspace=20 src="/assets/theme/images/gsarigu_poster.jpeg"></iframe>
   <figcaption>  Gemma presenting her poster at the North East Body Conference!</figcaption>
  </figure>
 
