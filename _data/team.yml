@@ -38,9 +38,10 @@
 - name: Lisa Woodley
   role: PhD Student (secondary supervision)
   image: assets/theme/images/lwoodley.jpeg
-  description: >
+  description: 
   I graduated with a BSc in Psychology with Cognitive Neuroscience from the University of Essex in September 2023, before completing my master's degree in Cognitive Neuroscience at the University of York in September 2024. Subsequently, I remained at York to commence my PhD. My research uses computational approaches and neuroimaging methods to explore the link between Anorexia Nervosa and autism, with a particular focus on reward-based decision-making and the types of habitual, repetitive behaviours that are evident across many psychiatric conditions.
   email: lisa.woodley@york.ac.uk
+
 
 
   
