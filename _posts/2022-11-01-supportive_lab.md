@@ -1,7 +1,7 @@
 ---
 title: 10 simple rules for a supportive lab environment
 description: New publication in Journal of Cognitive Neuroscience
-background: https://source.unsplash.com/5cFwQ-WMcJU
+background: "assets/theme/images/research.jpeg"
 author: [Alex Pike]
 categories: [News, Publications]
 comments: false
