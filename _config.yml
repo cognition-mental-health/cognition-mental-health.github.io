@@ -33,6 +33,7 @@ markdown: kramdown
 plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
   - jekyll-feed
   - jekyll-sitemap
+  - font-awesome
 exclude:
   - README.md
   - Gemfile
