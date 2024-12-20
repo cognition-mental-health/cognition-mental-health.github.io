@@ -1,7 +1,7 @@
 ---
 title: Seeking a postdoc! 
 description: The lab is hiring a postdoctoral research associate. 
-background: "assets/theme/images/groupdec2024.jpg"
+background: "assets/theme/images/groupdec2024.jpeg"
 author: [Alex Pike]
 categories: [News, Funding]
 comments: false
@@ -22,5 +22,5 @@ The successful candidate should have a track record of conducting individual and
 
 The successful candidate will be collaborative and have a positive attitude and enthusiasm for working with other staff and students.
 
-The full advert including job description is linked above, or here: https://jobs.york.ac.uk/vacancy/research-associate-574672.html. 
+The full advert including job description is linked above, or <a href="https://jobs.york.ac.uk/vacancy/research-associate-574672.html">here</a>. 
 
