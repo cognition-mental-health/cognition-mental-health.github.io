@@ -1,7 +1,7 @@
 ---
 title: Welcome, Gemma! 
 description: Gemma Sarigu will be working with the lab for a five-week internship.
-background: "assets/theme/images/research.jpeg"
+background: "assets/theme/images/welcome.avif"
 author: [Alex Pike]
 categories: [News, Funding]
 comments: false
