@@ -1,7 +1,7 @@
 ---
 title: Seeking a postdoc! 
 description: The lab is hiring a postdoctoral research associate. 
-background: "assets/theme/images/group2024.jpeg"
+background: "assets/theme/images/groupdec2024.jpg"
 author: [Alex Pike]
 categories: [News, Funding]
 comments: false
