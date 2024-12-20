@@ -23,11 +23,11 @@ description: Template for team page
       {{ member.description | markdownify }}
       <ul class="list-inline">
         {% if member.website %}
-          <li class="list-inline-item">
-            <a href="{{ member.website }}"><i class="fa-solid fa-globe"></i></a>
-          </li>
+        <li class="list-inline-item">
+          <a href="{{ member.website }}"><i class="fa-solid fa-globe"></i></a>
+        </li>
         {% endif %}
-      <ul class="list-inline">
+        
         {% if member.orcid %}
           <li class="list-inline-item">
             <a href="https://orcid.org/{{ member.orcid }}"><i class="ai ai-orcid"></i></a>
