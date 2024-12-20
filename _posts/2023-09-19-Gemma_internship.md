@@ -1,7 +1,7 @@
 ---
 title: Gemma's internship
 description: Gemma Sarigu summarises her research experience in the lab.
-background: "assets/theme/images/research.jpeg"
+background: "assets/theme/images/Gemma_corr.png"
 author: [Gemma Sarigu]
 categories: [News, Funding]
 comments: false
