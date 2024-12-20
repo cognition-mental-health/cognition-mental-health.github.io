@@ -1,7 +1,7 @@
 ---
 title: Welcome, Holly and Lisa! 
 description: Holly and Lisa are the latest PhD students to join the group.
-background: "assets/theme/images/group2024.tiff"
+background: "assets/theme/images/group2024.jpeg"
 author: [Alex Pike]
 categories: [News]
 comments: false
