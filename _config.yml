@@ -5,7 +5,6 @@ markdown: kramdown
 remote_theme: peterdesmet/petridish
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-- font-awesome/v6/brands.css #to add bluesky logo
 
 # SITE SETTINGS
 title: Cognition and Mental Health Lab  # Title in top navigation bar (navbar) and <head>
@@ -35,7 +34,7 @@ plugins:                                # If you build your site on gh-pages, on
   - jekyll-feed
   - jekyll-sitemap
   - font-awesome
-  - font-awesome/v6/brands.css
+  
 exclude:
   - README.md
   - Gemfile
