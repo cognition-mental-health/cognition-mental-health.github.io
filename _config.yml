@@ -35,6 +35,7 @@ plugins:                                # If you build your site on gh-pages, on
   - jekyll-feed
   - jekyll-sitemap
   - font-awesome
+  - font-awesome/v6/brands.css
 exclude:
   - README.md
   - Gemfile
