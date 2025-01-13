@@ -7,6 +7,8 @@ categories: [News, Funding]
 comments: false
 ---
 
+*Please note that applications for this role have now closed.*
+
 The lab recently received an <a href="https://acmedsci.ac.uk/more/news/66m-springboard-emerging-research-leaders">Academy of Medical Sciences Springboard Award</a> to investigate the relationship between feelings of control, self-efficacy and eating disorder symptoms. As part of this grant, <a href="https://jobs.york.ac.uk/vacancy/research-associate-574672.html">we are hiring a postdoc!</a> 
 
 <h1>Department</h1>

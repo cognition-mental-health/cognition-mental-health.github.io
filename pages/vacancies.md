@@ -31,5 +31,5 @@ permalink: /vacancies/
 
 
   <h2>Postdoc</h2>
-  <p>I currently have funding for a 23-month postdoc - see <a href="/_posts/2024-12-20-hiringpostdoc.md">this post for the job advert!</a>. I would also be very happy to support fellowship applications for a postdoc to be part of the lab - please <a href="mailto:alex.pike@york.ac.uk">email me</a>! </p>
+  <p>I currently have no funding for postdocs. I would be very happy to support a postdoctoral fellowship application for individuals wishing to be part of the lab - please <a href="mailto:alex.pike@york.ac.uk">email me</a>! </p>
 	<br>
