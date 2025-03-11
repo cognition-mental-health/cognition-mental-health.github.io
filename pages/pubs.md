@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-background: https://source.unsplash.com/5cFwQ-WMcJU
+background: /assets/theme/images/origami.jpg
 permalink: /pubs/
 
 ---
