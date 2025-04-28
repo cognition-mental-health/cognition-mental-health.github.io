@@ -2,7 +2,7 @@
 layout: default
 title: Participate in our research! 
 background: /assets/theme/images/people.jpg
-permalink: /participate/
+permalink: /projects/
 ---
 
 <div class="blurb">
