@@ -5,6 +5,13 @@ background: /assets/theme/images/people.jpg
 permalink: /projects/iu/
 ---
 
-Intolerance of uncertainty (IU) is a cognitive characteristic driven by negative beliefs about uncertainty. Individuals with high levels of IU interpret uncertain situations as inherently negative and find uncertainty anxiety- provoking (Buhr & Dugas., 2009). IU has been widely cited for its transdiagnostic impact on the symptom profiles of a wide array of emotional disorders (McEvoy et al., 2019), one such disorder being eating disorders (ED) (Brown et al., 2017). It has been suggested that individuals use ED behaviours such as dietary restriction, purging and excessive exercise to feel control within uncertain situations (ref). Although the research is rapidly expanding, little is known about how IU plays a role across different stages of the disorder and the literature is mixed in terms of how IU is implicated across transdiagnostic symptom profiles within EDs. 
+Intolerance of uncertainty (IU) is broadly defined as a characteristic whereby individuals experience distress when faced with unpredictable situations (Buhr & Dugas 2002). For example instability in romantic relationships or fear about the future. IU has been implicated within a range of disorders for example generalised anxiety disorder, depression and more recently eating disorders (Mceovy et al., 2019). It has been suggested that people may perform disordered eating behaviours such as excessive exercise and food restriction to combat feelings of anxiety that emerge in relation to uncertain situations (Levinson & williams, 2020). This can be uncertainty related to weight and calories or related to more general uncertainties such as worrying about future employment.
 
-Therefore this mixed methods study seeks to understand firstly how levels of IU may differ across ED diagnosis types, how individuals' perception of how uncertainty has affected their ED relates to scores of IU using inferential statistics such as mixed linear models and correlation. A hybrid inductive-deductive reflexive thematic analysis will be conducted to understand how IU is implicated across the lifespan of an ED, namely in development, maintenance, relapse, its involvement in the maladaptive thought processes in ED, how it is currently addressed within treatment and how it can be better addressed. The findings from this study will help us to understand how uncertainty can be addressed within treatment at multiple stages of the disorder informing cognitive behavioural therapies such as IU CBT-IU (Herbert & Dugas., 2019) which have been used within anxiety disorders but never within EDs.
+
+What is Holly interested in?
+
+How does Intolerance of Uncertainty develop?
+How is it implicated across different stages of an eating disorder such as relapse or development?
+How is it related to catastrophizing (worst-case-scenario thinking)?
+How can we measure intolerance to uncertainty behaviourally to get a better understanding of how it operates in everyday life?
+
