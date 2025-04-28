@@ -7,7 +7,7 @@ permalink: /projects/interoception/
 
 Interoception is our sixth sense - the sensations and signals we get from inside our body. This includes sensations that come from your cardiac, respiratory, and gastrointestinal systems. For example, feeling your heart race, shortness of breath, and hunger contractions. (Altered) interoception has been implicated in a number of mental health conditions, including eating disorders - but most research tends to focus on domains with readily-measured signals (such as cardiac interoception) or interoception across domains. 
 
-Given the intuitive links between hunger, fullness, and other gastric sensations and eating disorders, Lucy is especially interested in gastrointestinal interoception, and whether these sensations interact with how people feel about and perceive their bodily appearance.  
+Given the intuitive links between hunger, fullness, and other gastric sensations and eating disorders, <a href="https://cognition-mental-health.github.io/people/#Lucy+Stafford">Lucy</a> is especially interested in gastrointestinal interoception, and whether these sensations interact with how people feel about and perceive their bodily appearance.  
 
 Her preliminary research suggests that how people with eating disorders feel about gastrointestinal signals is important for their eating behaviours. For example, feeling bloated and in turn guilty, disgusting, or worthless could encourage behaviours like excessive exercising, purging, or restriction to alleviate the bloating and in turn the negative emotions. This makes disordered eating practices highly reinforcing and encourages avoidance of aversive interoceptive experiences, such as the typical sensations of fullness we encounter after eating.
 
