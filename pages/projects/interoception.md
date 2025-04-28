@@ -2,6 +2,7 @@
 layout: default
 title: Interoception
 background: /assets/theme/images/people.jpg
+permalink: /projects/interoception/
 ---
 
 Interoception is our sixth sense - the sensations and signals we get from inside our body. This includes sensations that come from your cardiac, respiratory, and gastrointestinal systems. For example, feeling your heart race, shortness of breath, and hunger contractions. (Altered) interoception has been implicated in a number of mental health conditions, including eating disorders - but most research tends to focus on domains with readily-measured signals (such as cardiac interoception) or interoception across domains. 

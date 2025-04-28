@@ -7,7 +7,7 @@ permalink: /projects/
 
 <div class="blurb">
 
-Within the Cognition and Mental Health lab, we are working on a variety of different topics. These include <a href="/projects/iu.md">intolerance of uncertainty</a> and <a href="/projects/interoception.md">interoception</a>.
+Within the Cognition and Mental Health lab, we are working on a variety of different topics. These include <a href="/projects/iu/">intolerance of uncertainty</a> and <a href="/projects/interoception/">interoception</a>.
 
 <h2> Sensations from our stomach</h2>
     <p><a href="https://cognition-mental-health.github.io/people/#Lucy+Stafford">Lucy</a> is recruiting <a href="https://york.qualtrics.com/jfe/form/SV_cGQuWRwC1lKqcHs">participants who identify as having an eating disorder</a> to complete an online survey to refine a new scale assessing how we feel about sensations from our stomach. She is looking for other participants to refine the questionnaire too - including <a href="https://york.qualtrics.com/jfe/form/SV_0vwfUyvV5r2tGWq">those with a gastric disorder</a>, or <a href="https://york.qualtrics.com/jfe/form/SV_brelvivpJ8PO5gi">neither a gastric or eating disorder</a></p>. 
