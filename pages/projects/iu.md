@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intolerance of uncertainty
-background: /assets/theme/images/people.jpg
+background: /assets/theme/images/uncertainty.jpg
 permalink: /projects/iu/
 ---
 

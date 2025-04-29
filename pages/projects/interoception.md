@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Interoception
-background: /assets/theme/images/people.jpg
+background: /assets/theme/images/gastric.jpg
 permalink: /projects/interoception/
 ---
 
