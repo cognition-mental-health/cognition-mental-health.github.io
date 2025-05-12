@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Goal-directed and habitual learning
-background: /assets/theme/images/habit.jpg
+background: /assets/theme/images/habit.png
 permalink: /projects/goal-directed/
 ---
 The vast majority of what we do in our everyday lives requires us to make some form of decision, from which route to take to work, to what we’re going to eat for dinner. Typically, we use two different strategies to guide our decision-making. 
