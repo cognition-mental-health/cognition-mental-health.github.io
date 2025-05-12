@@ -7,7 +7,7 @@ permalink: /projects/
 
 <div class="blurb">
 
-Within the Cognition and Mental Health lab, we are working on a variety of different topics. These include <button onclick="window.location.href='/projects/iu/';">(intolerance of) uncertainty</button> and <button onclick="window.location.href='/projects/interoception/';">interoception</button>. Some of these projects are recruiting participants - if you'd like to take part, see below! 
+Within the Cognition and Mental Health lab, we are working on a variety of different topics. These include <button onclick="window.location.href='/projects/iu/';">(intolerance of) uncertainty</button>, <button onclick="window.location.href='/projects/interoception/';">interoception</button> and <button onclick="window.location.href='/projects/goal-directed/';">goal-directed learning</button>. Some of these projects are recruiting participants - if you'd like to take part, see below! 
 
 
 <h2> Sensations from our stomach</h2>
