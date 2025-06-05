@@ -1,7 +1,7 @@
 ---
 title: Welcome Kelly! 
 description: Kelly Donegan has joined the lab as a postdoctoral researcher. 
-background: "assets/theme/images/welcome.avif"
+background: "assets/theme/images/welcome.jpg"
 author: [Alex Pike]
 categories: [News, Funding]
 comments: false
