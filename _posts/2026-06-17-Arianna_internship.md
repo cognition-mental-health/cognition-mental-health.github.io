@@ -1,7 +1,7 @@
 ---
 title: Welcome Arianna! 
 description: Arianna Coraggio has joined the lab as a summer intern. 
-background: "assets/theme/images/welcome.jpg"
+background: "assets/theme/images/welcome2.png"
 author: [Alex Pike]
 categories: [News, Funding]
 comments: false
